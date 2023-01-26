@@ -1,0 +1,2 @@
+# DeleteRepositorio
+Checkout, Reset, Ravert
